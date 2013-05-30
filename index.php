@@ -6,21 +6,7 @@
     </head>
     <body>
         <?php
-        // put your code here
-        function suma($num1,$num2){
-            return $num1+$num2;
-            
-        }
-        
-        function multiplicacio($num1,$num2){
-            return $num1*$num2;
-            
-        }
-        
-        function resta($num1,$num2){
-            return $num1-$num2;
-        }
-        
+        // Versió inicial del projecte  
         ?>
     </body>
 </html>
