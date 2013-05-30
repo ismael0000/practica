@@ -7,7 +7,6 @@
     </head>
     <body>
         <?php
-<<<<<<< HEAD
         // Funció per a fer una suma
         ?>
     </body>
