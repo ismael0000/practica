@@ -6,7 +6,11 @@
     </head>
     <body>
         <?php
-        //Versió inicial del projecte  
+        // Versió inicial del projecte  
+        function suma($num1,$num2){
+            return $num1+$num2;
+            
+        }
         ?>
     </body>
 </html>
